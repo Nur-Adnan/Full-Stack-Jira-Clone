@@ -2,6 +2,11 @@
 
 Welcome to **Jira Clone**, a comprehensive project management platform built with **Next.js 14** and modern tools. Designed for teams to efficiently organize, collaborate, and track projects with ease.
 
+## 🚀 Live Demo
+[Live Demo](https://full-stack-jira-clone.vercel.app/) 
+
+---
+
 ## 🚀 Features
 ### Core Functionalities:
 - 🏢 **Workspaces**: Organize your projects across multiple workspaces.
