@@ -43,7 +43,6 @@ Welcome to **PRT**, a comprehensive project management platform built with **Nex
 
 ### Backend:
 - [Hono.js](https://hono.dev/) - Lightweight, high-performance API framework.
-- [Convex](https://convex.dev/) - Real-time database for serverless applications.
 - [Appwrite](https://appwrite.io/) - Secure backend-as-a-service for authentication and database management.
 
 ### Authentication:
@@ -53,7 +52,6 @@ Welcome to **PRT**, a comprehensive project management platform built with **Nex
 
 ## 📂 Project Structure
 ```plaintext
-├── convex/              # Convex server logic
 ├── public/              # Static assets
 ├── src/                 # Main source code
 ├── .eslintrc.json       # Linting configuration
@@ -75,8 +73,6 @@ To run the project, create a `.env.local` file in the root directory with the fo
 ```env
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_cmVsYXhlZC1jYXR0bGUtODAuY2xlcmsuYWNjb3VudHMuZGV2JA
 CLERK_SECRET_KEY=sk_test_wjgbLdp4OGPkD5ieikgbIxNOaiml43ZLy9CYcAGhhl
-CONVEX_DEPLOYMENT=dev:steady-mink-777
-NEXT_PUBLIC_CONVEX_URL=https://steady-mink-777.convex.cloud
 ```
 
 ---
@@ -85,7 +81,6 @@ NEXT_PUBLIC_CONVEX_URL=https://steady-mink-777.convex.cloud
 
 ### Prerequisites
 - **Node.js**: v18 or higher
-- **Convex**: Deployment URL for real-time backend.
 
 ### Installation
 
