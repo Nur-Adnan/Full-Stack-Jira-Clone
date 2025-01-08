@@ -18,7 +18,6 @@ Welcome to **PRT**, a comprehensive project management platform built with **Nex
 
 ### Collaboration Features:
 - ✉️ **Invite System**: Add team members with role-based permissions.
-- 📨 **Real-time Chat**: Communicate instantly with teammates.
 - 👥 **Role-Based Access Control**: Assign permissions and manage access.
 - 🔒 **Authentication**: Secure login using OAuth or email/password.
 
